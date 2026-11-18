@@ -18,6 +18,10 @@ O catálogo e o Painel Agenda de Eventos apoiam etapas do mesmo fluxo de atendim
 
 Concebi o catálogo a partir da minha experiência como líder de atendimento. Defini quais informações ajudam o cliente a decidir, organizei a apresentação das cestas e conduzi a prototipagem com apoio de IA, revisando a navegação e orientando os ajustes.
 
+## Vídeo demonstrativo
+
+[Assistir à demonstração](./demonstracao-catalogo-de-cestas.mp4) (21 segundos). A animação usa telas ilustrativas e dados fictícios para mostrar a escolha da cesta, a consulta pelo WhatsApp e o registro da encomenda no painel.
+
 ## Status
 
 Este README documenta a proposta da versão independente para portfólio.
