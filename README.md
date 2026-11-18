@@ -10,6 +10,10 @@ Quem procura uma cesta para presentear costuma querer saber o que vem em cada op
 
 Reunir as opções em um catálogo visual para que o cliente possa comparar as composições antes de conversar com o atendimento. Com a escolha em mãos, a conversa pode avançar para a confirmação de disponibilidade, data e entrega.
 
+## Relação com o Painel Agenda de Eventos
+
+O catálogo e o Painel Agenda de Eventos apoiam etapas do mesmo fluxo de atendimento. O cliente consulta as opções no catálogo e fala com o atendimento para combinar a encomenda. A equipe usa o painel para registrar e acompanhar o pedido.
+
 ## Meu papel
 
 Concebi o catálogo a partir da minha experiência como líder de atendimento. Defini quais informações ajudam o cliente a decidir, organizei a apresentação das cestas e conduzi a prototipagem com apoio de IA, revisando a navegação e orientando os ajustes.
